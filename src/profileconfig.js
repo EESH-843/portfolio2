@@ -17,8 +17,9 @@ export const skills = [
     "Sports Enthusiast",
 ];
 
-export const resume = "./Resume.pdf"; //resume is working fine now
+export const resume = "./Masters_Resumé.pdf"; //resume is working fine now
 export const contactFormsparkId = ''
+
 
 
 
